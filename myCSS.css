@@ -1,0 +1,25 @@
+
+.background {
+  background: center no-repeat https://wallpaperbrowse.com/media/images/background-wallpapers-26.jpg
+;
+}
+
+.logo {
+  background-image: https://netdna.webdesignerdepot.com/uploads/circular_logos/Accelrys.jpg
+;
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+.splash {
+  background-image: https://s-media-cache-ak0.pinimg.com/originals/bd/21/26/bd2126aed22ad2508a19f058312e7a30.jpg
+;
+}
+
+.watermark {
+  background-image: https://16458-presscdn-0-67-pagely.netdna-ssl.com/wp-content/uploads/images/examples/watermarking/text_fits_page_watermark.png
+;
+  background-size: 57px 57px;
+}
